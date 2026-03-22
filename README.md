@@ -24,6 +24,7 @@ I did not test the project thoroughly when creating the repo (late March 2026) b
 - ESP (Name, Health, Box, Bones, Team Check)
 - Fuser compatible overlay
 - [PCILeech](https://github.com/ufrisk/pcileech) compatible DMA
+- Separate worker thread for DMA operations with a double-buffer + mutex approach to avoid race conditions, "making" the main thread for GUI render (most intensive task in main thread)
 
 ## Requirements
 - A FPGA board (tested on XC7A75T) with DMA capable firmware ([PCILeech](https://github.com/ufrisk/pcileech-fpga)-based is encouraged)

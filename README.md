@@ -4,7 +4,7 @@ This project is built on top of my [CS2 External Base](https://github.com/1neskk
 This project was created with the goal to assist in the learning experience regarding game hacking, DMA attacks, FPGA. It is meant to be used for educational purposes only, because of that offsets are most likely outdated and keep in mind that this project should not be used for malicious purposes.
 
 > [!WARNING]
-> The support for Deadlock ("deadlock.exe") is not yet fully supported.
+> The game Deadlock ("deadlock.exe") is not yet fully supported.
 
 ### Disclaimer
 This project is for educational purposes only. I do not condone cheating in any form.

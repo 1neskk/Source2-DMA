@@ -23,10 +23,10 @@ I did not test the project thoroughly when creating the repo (late March 2026) b
 - Physical memory reading through the PCIe Bus lane (abstracted)
 - ESP (Name, Health, Box, Bones, Team Check)
 - Fuser compatible overlay
-- PCILeech compatible DMA
+- [PCILeech](https://github.com/ufrisk/pcileech) compatible DMA
 
 ## Requirements
-- An FPGA board (tested on XC7A75T) with DMA capable firmware ([PCILeech](https://github.com/ufrisk/pcileech-fpga)-based is encouraged)
+- A FPGA board (tested on XC7A75T) with DMA capable firmware ([PCILeech](https://github.com/ufrisk/pcileech-fpga)-based is encouraged)
 - Secondary machine running the software
 
 ## Dependencies

@@ -31,6 +31,7 @@ I did not test the project thoroughly when creating the repo (late March 2026) b
 ## Showcase
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f1d8360-8d6c-4c3e-ac43-03ad045ec8ea" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f51037ac-b2d8-4fbd-bbe0-52dc9e3652ca" />
+
 ![IMG_1476](https://github.com/user-attachments/assets/f780794d-4c0d-49b9-8642-57fa3b4d1ed5)
 
 ## Requirements

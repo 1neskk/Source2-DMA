@@ -29,6 +29,9 @@ I did not test the project thoroughly when creating the repo (late March 2026) b
 - Separate worker thread for DMA operations with a double-buffer + mutex approach to avoid race conditions, "making" the main thread for GUI render (most intensive task in main thread)
 
 ## Showcase
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f1d8360-8d6c-4c3e-ac43-03ad045ec8ea" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f51037ac-b2d8-4fbd-bbe0-52dc9e3652ca" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51a113e4-9f2c-4f3f-8db5-1d105af0fd29" />
 
 ## Requirements
 - A FPGA board (tested on XC7A75T) with DMA capable firmware ([PCILeech](https://github.com/ufrisk/pcileech-fpga)-based is encouraged)

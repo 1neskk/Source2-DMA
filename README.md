@@ -30,7 +30,7 @@ I did not test the project thoroughly when creating the repo (late March 2026) b
 - Separate worker thread for DMA operations with a double-buffer + mutex approach to avoid race conditions, "making" the main thread free for GUI render
 
 ## Showcase
-![image1](https://github.com/user-attachments/assets/4f1d8360-8d6c-4c3e-ac43-03ad045ec8ea)
+![image1](https://github.com/user-attachments/assets/68d505ff-8b8d-48b6-a031-ca8a8544ddd7)
 ![image2](https://github.com/user-attachments/assets/f51037ac-b2d8-4fbd-bbe0-52dc9e3652ca)
 ![image3](https://github.com/user-attachments/assets/f780794d-4c0d-49b9-8642-57fa3b4d1ed5)
 

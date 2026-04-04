@@ -23,7 +23,7 @@ I did not test the project thoroughly when creating the repo (late March 2026) b
 - [Contributing](#contributing)
 
 ## Features
-- Physical memory reading through the PCIe Bus lane (abstracted)
+- Physical memory reading through the PCIe Bus lane (abstracted via [DMALibrary](https://github.com/Metick/DMALibrary))
 - ESP (Name, Health, Box, Bones, Team Check)
 - Fuser compatible overlay
 - [LeechCore](https://github.com/ufrisk/LeechCore) based DMA implementation
